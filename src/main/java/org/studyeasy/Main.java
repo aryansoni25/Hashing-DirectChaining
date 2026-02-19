@@ -11,6 +11,5 @@ public class Main {
         dc.displayHashTable();
         dc.searchHashTable("fox");
         dc.deleteKeyHashTable("over");
-
     }
 }
