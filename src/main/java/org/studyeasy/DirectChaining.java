@@ -33,7 +33,7 @@ public class DirectChaining {
         if(hashTable==null){
             System.out.println("Hash Table Doesn't exist");
         }else{
-            System.out.println("\n---------------HashTable---------------");
+            System.out.println("\n--------------HashTable---------------");
             for(int i=0;i<hashTable.length;i++){
                 System.out.println("Index: "+i+"Key: "+hashTable[i]+" ");
             }
