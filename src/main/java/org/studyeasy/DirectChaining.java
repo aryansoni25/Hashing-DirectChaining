@@ -50,7 +50,6 @@ public class DirectChaining {
             return false;
         }
     }
-
     public void deleteKeyHashTable(String word){
         int newIndex=modASCII(word,hashTable.length);
         boolean result=searchHashTable(word);
