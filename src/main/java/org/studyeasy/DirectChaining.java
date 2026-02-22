@@ -55,7 +55,7 @@ public class DirectChaining {
         boolean result=searchHashTable(word);
         if(result){
             hashTable[newIndex].remove();
-            System.out.println("\n"+"\""+word+"\""+" Word has been deleted from HashTable ");
+            System.out.println("\n"+"\""+word+"\""+" Word has been deleted from HashTable");
         }
     }
 }
