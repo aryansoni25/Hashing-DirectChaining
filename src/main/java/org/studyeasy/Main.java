@@ -2,7 +2,7 @@ package org.studyeasy;
 
 public class Main {
     public static void main(String[] args) {
-        DirectChaining dc=new DirectChaining(13);
+        DirectChaining dc=new DirectChaining(16);
         dc.insertHashTable("The");
         dc.insertHashTable("quick");
         dc.insertHashTable("browny");
