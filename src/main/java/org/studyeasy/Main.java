@@ -6,7 +6,7 @@ public class Main {
         dc.insertHashTable("The");
         dc.insertHashTable("quick");
         dc.insertHashTable("browny");
-        dc.insertHashTable("fox");
+        //dc.insertHashTable("fox");
         dc.insertHashTable("over");
         dc.displayHashTable();
         dc.searchHashTable("fox");
