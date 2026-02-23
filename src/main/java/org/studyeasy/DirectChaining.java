@@ -31,7 +31,7 @@ public class DirectChaining {
 
     public void displayHashTable(){
         if(hashTable==null){
-            System.out.println("Hash Table Doesn't exist");
+            System.out.println("Hash Table Doesn't exist!!");
         }else{
             System.out.println("\n--------------HashTable-------------- ");
             for(int i=0;i<hashTable.length;i++){
