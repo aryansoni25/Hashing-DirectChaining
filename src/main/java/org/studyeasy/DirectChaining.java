@@ -46,7 +46,7 @@ public class DirectChaining {
             System.out.println("\n"+"\""+word+"\""+" found in hashtable at location: "+newIndex);
             return true;
         }else{
-            System.out.println("\n"+"\""+word+"\""+" not found in hashtable at location");
+            System.out.println("\n"+"\" "+word+"\""+" not found in hashtable at location");
             return false;
         }
     }
